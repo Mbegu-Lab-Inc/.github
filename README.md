@@ -1,6 +1,8 @@
 # Welcome to Mbegu! 🌱🚀
 
-![Mbegu Banner](https://github.com/mbegu-africa/Brandkit/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/mbegu-africa/Brandkit/blob/main/banner.png" alt="Mbegu Banner">
+</p>
 
 Mbegu is a crowdfunding platform focused on supporting entrepreneurs and startups in Africa, with a special emphasis on Tanzania. 🌍
 
